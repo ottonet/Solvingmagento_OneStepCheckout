@@ -1,0 +1,6 @@
+app/code/local/* app/code/local/
+app/design/frontend/base/default/layout/solvingmagento/onestepcheckout.xml app/design/frontend/base/default/layout/solvingmagento/onestepcheckout.xml
+app/design/frontend/base/default/template/solvingmagento/* app/design/frontend/base/default/template/solvingmagento/
+app/etc/modules/Solvingmagento_OneStepCheckout.xml app/etc/modules/Solvingmagento_OneStepCheckout.xml
+skin/frontend/base/default/css/solvingmagento/onestepcheckout/onestep.css skin/frontend/base/default/css/solvingmagento/onestepcheckout/onestep.css
+skin/frontend/base/default/js/solvingmagento/* skin/frontend/base/default/js/solvingmagento/
